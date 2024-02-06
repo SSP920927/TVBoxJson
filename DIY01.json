@@ -53,6 +53,10 @@
             "name": "云星日记"
         },
         {
+            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "name": "SVIP"
+        },
+        {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "南瓜"
         }
