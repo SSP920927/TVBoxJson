@@ -1,14 +1,6 @@
 {
     "urls": [
         {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "DEMO"
-        },
-        {
-            "url": "http://www.饭太硬.top/tv/",
-            "name": "🚀饭太硬"
-        },
-        {
             "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
             "name": "FongMi"
         },
@@ -16,9 +8,9 @@
             "url": "https://100km.top/0",
             "name": "纯一骚零"
         },
-         {
-            "url": "https://api-lmteam.koyeb.app/files/py.json",
-            "name": "霜辉月明 Py"
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "南瓜"
         },
          {
             "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
@@ -37,28 +29,12 @@
             "name": "肥猫"
         },
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风"
-        },
-        {
-            "url": "https://yydsys.top/duo",
-            "name": "多多"
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技"
         },
         {
             "url": "https://d.kstore.space/download/6474/tvbox/api.json",
             "name": "小白"
-        },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "云星日记"
-        },
-        {
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-            "name": "SVIP"
-        },
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "南瓜"
         }
     ]
 }
